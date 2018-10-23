@@ -1,0 +1,19 @@
+{
+  "name": "mycms",
+  "version": "1.0.0",
+  "description": "CLI tool for dynamic building components of website",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adiwon",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0",
+    "mongoose": "^5.3.4",
+    "node-cmd": "^3.0.0"
+  }
+}

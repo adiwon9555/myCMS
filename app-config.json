@@ -1,0 +1,18 @@
+{
+    "header":{
+        "text":"from DESKTOP AFTER LINKING header",
+		"textColor":"purple"
+    },
+    "body":{
+        "text":"jovin my boy half cut body",
+		"textColor":"red"
+    },
+    "cards":{
+        "text":"sayak Chatterjee hql expert, now in little problem cards",
+		"textColor":"black"
+    },
+    "footer":{
+        "text":"In tomcat after ng build",
+		"textColor":"green"
+    }
+}
